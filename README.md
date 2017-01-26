@@ -12,6 +12,9 @@ The distance is calculated by using the havershine formula,
 and assessed all the coordinate points in the continental U.S.
 to find the coordinate with the minimum MTHM*km value.
 
+Havershine Formula:
+https://en.wikipedia.org/wiki/Haversine_formula
+
 The current resolution is 50X50 (Continental U.S. divided into 2500 sectors
 for evaluation). The resolution can be modified by changing the 
 third term in line 63 and 64.
